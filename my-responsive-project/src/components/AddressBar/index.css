@@ -1,0 +1,39 @@
+.adressbar{
+    background-color:#0A2C3D;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    width: 100%;
+}
+.align{
+    display:flex;
+    align-items: center;
+color: white;
+margin: 5px;
+font-weight: bold;
+font-size: 10px;
+
+}
+.icon{
+    margin: 10px;
+    height: 20px;
+    width: 20px;
+}
+.align-1{
+    display: flex;
+
+
+}
+.social-icons{
+    width: 150px;
+}
+.seperator{
+    height: 20px;
+    color: grey;
+}
+.india{
+    margin: 4px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}

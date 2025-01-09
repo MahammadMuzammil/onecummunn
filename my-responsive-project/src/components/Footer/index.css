@@ -1,0 +1,64 @@
+.footer-section {
+    background-color: #1D324D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.footer-img {
+    width: 80%;
+    height: 220px;
+}
+
+.footer-container-1 p {
+    margin: 0px;
+    color: white;
+    font-family: 'Nunito';
+}
+
+.icons-container{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.icon-container{
+    background-color: #E2E2EB;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    color: #6A7695;
+}
+.selected-icon{
+    background-color: #D27012;
+    color: white;
+}
+
+.container-3{
+    list-style-type: none;
+    color: white;
+    margin-right: 10px;
+}
+.container-3 li{
+    margin-top: 25px;
+}
+.container-4{
+    list-style-type: none;
+    color: white;
+    margin-left: 10px;
+}
+.container-4 li{
+    display: flex;
+    align-items: center;
+
+}
+.container-4 li p{
+    margin-left: 10px;
+}
